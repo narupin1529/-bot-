@@ -1,5 +1,8 @@
 {
-  "1": ["Good morning! 朝六時デース! 提督ぅー。朝からかっこいいデース!","gazou/kongou.png","gazou/kongou.png"],
-  "2": "2番目が出力されました",
-  "3": "3番目が出力されました"
+  "$name": ["text","original","preview"],
+  "金剛": ["Good morning! 朝六時デース! 提督ぅー。朝からかっこいいデース!","https://drive.google.com/uc?id=1HzjvlIFV2p3Az112xAPktICfUC-dzWfs","https://drive.google.com/uc?id=1HzjvlIFV2p3Az112xAPktICfUC-dzWfs"],
+  "川内": ["朝だよ朝…ふええ〜…朝か…","https://drive.google.com/uc?id=1A9_cO4JBTkB8WsZRMxNDyml8Y5TpMlCO","https://drive.google.com/uc?id=1A9_cO4JBTkB8WsZRMxNDyml8Y5TpMlCO"],
+  "曙": ["仕方ない！今日はこのアタシが秘書官をやってあげる。十分感謝しなさい！クソ提督。","https://drive.google.com/uc?id=1Qoz_xRYi1EVqPg-uwgetdfjMX60dCC0N","https://drive.google.com/uc?id=1Qoz_xRYi1EVqPg-uwgetdfjMX60dCC0N"],
+  "朝潮": ["司令官、朝です！大潮たちを起こしてきます！第八駆逐隊、総員起こーし！","https://drive.google.com/uc?id=13tlN6W60asGFziS-na4ltnqBqEKxrWXL","https://drive.google.com/uc?id=13tlN6W60asGFziS-na4ltnqBqEKxrWXL"],
+  "潮": ["提督、提督！マルゴーマルマル、朝です。もしよろしかったら、お目覚めになってください。","https://drive.google.com/uc?id=1OOjVrx7-oV8lHtjt9NJ5xGuSAsrlP3c6","https://drive.google.com/uc?id=1OOjVrx7-oV8lHtjt9NJ5xGuSAsrlP3c6"]
 }
