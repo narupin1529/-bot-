@@ -1,6 +1,7 @@
 import json
 from linebot import LineBotApi
 from linebot.models import TextSendMessage
+from linebot.models import ImageSendMessage
 import random as rd
 
 num = rd.randint(1,3)
